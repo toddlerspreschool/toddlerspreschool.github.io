@@ -1,4 +1,4 @@
-# Privacy Policy - Toddler PreSchool Learning App
+# Privacy Policy - Toddler's PreSchool Learning App
 <body>
 <h2>Privacy Policy</h2>
 	
