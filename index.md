@@ -1,7 +1,3 @@
-# Toddler's PreSchool Learning App - Privacy Policy
-## B
-### C
-<pre>checking</pre>
 
 <body>
 <h2>Privacy Policy</h2>
